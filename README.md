@@ -1,23 +1,4 @@
-<!--
-**SwantanBarua/SwantanBarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Swantan Barua
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello, I'm Swantan Barua :bowtie:
-
-_Passionate about coding, building and learning stuff. I am an Information Technology Graduate from Jadavpur Univeristy.
-Will never say 'NO' to a ⚽ match or another plate of momo_ 
-
-# Socials
-
-![https://image.flaticon.com/icons/png/512/174/174857.png](https://www.linkedin.com/in/swantan-barua-b77a83192/)
+_Passionate about coding, developing apps, websites and other stuff. Always up for learning.
+I am an **Information Technology** Graduate from **Jadavpur University**. I'll never say no to a football match or another plate of momo_
