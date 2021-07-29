@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SwantanBarua/SwantanBarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Swantan Barua :bowtie:
+
+_Passionate about coding, building and learning stuff. I am an Information Technology Graduate from Jadavpur Univeristy.
+Will never say 'NO' to a ⚽ match or another plate of momo_ 
+
+# Socials
+
+![https://image.flaticon.com/icons/png/512/174/174857.png](https://www.linkedin.com/in/swantan-barua-b77a83192/)
