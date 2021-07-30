@@ -12,5 +12,5 @@ I am an **Information Technology** Graduate from **Jadavpur University**. I'll n
 <a href="mailto:work.swantan@gmail.com" target="_blank"><img align="left" alt="Swantan Barua | Gmail" width="22px" src="/logos/gmail.png"><br>
  
 # Programming Languages
-  <img align="left" alt="Java" width="22px" src="/logos/java.jpg">
+  <img align="left" alt="Java" width="44px" src="/logos/java.jpg">
   <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
