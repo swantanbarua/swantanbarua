@@ -1,7 +1,7 @@
 # Swantan Barua 😎
 
 _Passionate about coding, developing apps, websites and other stuff. Always up for learning.
-I am an **Information Technology** Graduate from **Jadavpur University**. I'll never say no to a ⚽ match or another plate of momo_
+I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I'll never say no to a ⚽ match or another plate of momo_
 
 # Socials
 
@@ -13,5 +13,5 @@ I am an **Information Technology** Graduate from **Jadavpur University**. I'll n
  
 # Programming Languages
   
-  <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
   <img align="left" alt="Python" width="22px" src="/logos/python.jpg">
+  <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
