@@ -14,3 +14,4 @@ I am an **Information Technology** Graduate from **Jadavpur University**. I'll n
 # Programming Languages
   
   <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
+  <img align="left" alt="Python" width="22px" src="/logos/python.jpeg">
