@@ -17,8 +17,9 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="22px" src="/logos/js.png"></a>                         <a href="https://devdocs.io/c/" target="_blank"><img align="left" alt="C" width="22px" src="/logos/c.png"></a>
  -->
  
+ # About
  ### Hi there 👋, I am Swantan Barua
-#### Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from Jadavpur University school. I'll never say no to a ⚽ match or another plate of momo
+#### _Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from Jadavpur University school. I'll never say no to a ⚽ match or another plate of momo_
 
 # Socials
 
@@ -33,7 +34,7 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
   <br><br>
   
-### Spotify 🎧
+## Spotify 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/7KRT83V16VAnYxxIRw7Cbo)
 <br/>
