@@ -13,6 +13,5 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
  
 # Programming Languages
   
-  <img align="left" alt="Python" width="22px" src="/logos/python.jpg">
-  <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
-  <img align="left" alt="C" width="22px" src="/logos/c.png">
+  <a href="https://docs.python.org/3/" target="_blank"><img align="left" alt="Python" width="22px" src="/logos/python.jpg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="22px" src="/logos/js.png"></a>                         <a href="https://devdocs.io/c/" target="_blank"><img align="left" alt="C" width="22px" src="/logos/c.png"></a>
