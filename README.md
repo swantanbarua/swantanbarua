@@ -16,8 +16,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="52px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
   <br><br><br>
   
-<hr>
-## Spotify 🎧
+
+# Spotify 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/7KRT83V16VAnYxxIRw7Cbo)
 <br/>
