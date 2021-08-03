@@ -15,3 +15,4 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
   
   <img align="left" alt="Python" width="22px" src="/logos/python.jpg">
   <img align="left" alt="JavaScript" width="22px" src="/logos/js.png">
+  <img align="left" alt="C" width="22px" src="/logos/c.png">
