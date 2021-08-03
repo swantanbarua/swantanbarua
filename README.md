@@ -20,11 +20,11 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
  ### Hi there 👋, I am Swantan Barua
 #### Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from Jadavpur University school. I'll never say no to a ⚽ match or another plate of momo
 
-
+# Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SwantanBarua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swantan-barua-b77a83192//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/swantman7//)  
 
-<a href="https://www.instagram.com/swantman7/"><i class="fab fa-instagram"></i></a>
+
 # Programming Languages
 
   <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
@@ -33,7 +33,7 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
   <br><br>
   
-### Now Playing 🎧
+### Spotify 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/7KRT83V16VAnYxxIRw7Cbo)
 <br/>
