@@ -25,8 +25,8 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SwantanBarua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/swantan-barua-b77a83192//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/swantman7//)  
 
-<a href="https://www.linkedin.com/in/swantan-barua-b77a83192/" target="_blank"><img align="left" alt="Swantan Barua | LinkedIn" width="22px" src="/logos/linkedin.png">
-<a href="https://www.instagram.com/swantman7/" target="_blank"><img align="left" alt="Swantan Barua | Instagram" width="22px" src="/logos/instagram.png">
+<a href="https://www.linkedin.com/in/swantan-barua-b77a83192/" target="_blank"><img align="left" alt="Swantan Barua | LinkedIn" width="66px" src="/logos/linkedin.png">
+<a href="https://www.instagram.com/swantman7/" target="_blank"><img align="left" alt="Swantan Barua | Instagram" width="66px" src="/logos/instagram.png">
   
 # Programming Languages
 
