@@ -4,7 +4,7 @@
 
 # Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="44px'>](https://github.com/https://github.com/swantanbarua)
+<a href="https://github.com/swantanbarua/" target="_blank"><img align="left" alt="Swantan Barua | Github" width="44px" src="/logos/github.png">
 <a href="https://www.linkedin.com/in/swantan-barua-b77a83192/" target="_blank"><img align="left" alt="Swantan Barua | LinkedIn" width="44px" src="/logos/linkedin.png">
 <a href="https://www.instagram.com/swantman7/" target="_blank"><img align="left" alt="Swantan Barua | Instagram" width="44px" src="/logos/instagram.png"><br>
   
