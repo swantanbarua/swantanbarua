@@ -18,7 +18,7 @@ I am an **Information Technology** Graduate from **Jadavpur University** 🏫. I
  -->
  
  ### Hi there 👋, I am Swantan Barua
-#### Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from Jadavpur University school. I'll never say no to a soccer match or another plate of momo
+#### Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from Jadavpur University school. I'll never say no to a ⚽ match or another plate of momo
 
 
 
