@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://tenor.com/blOVi.gif"> <span>👋</span>, I'm Swantan Barua</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/> <span>👋</span>, I'm Swantan Barua</h1>
 <h2 align="center">I am a Software Development Engineer currently working in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a>. Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>. I'll never say no to a ⚽ match or another plate of momo</h2>
 
 <h1 align="left">Connect with me:</h1>
