@@ -1,4 +1,4 @@
-# Hi <iframe src="https://giphy.com/embed/kBZ212yGzFaxgkSIKW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hi-hola-saludos-kBZ212yGzFaxgkSIKW">via GIPHY</a></p> 👋, I'm Swantan Barua
+<h1 align="center">Hi 👋, I'm Swantan Barua</h1>
 <h2 align="center">I am a Software Development Engineer currently working in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a>. Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>. I'll never say no to a ⚽ match or another plate of momo</h2>
 
 <h1 align="left">Connect with me:</h1>
