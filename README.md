@@ -1,4 +1,4 @@
-<h1 align="center">Hi <span>👋</span>, I'm Swantan Barua</h1>
+<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <span>👋</span>, I'm Swantan Barua</h1>
 <h2 align="center">I am a Software Development Engineer currently working in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a>. Passionate about coding, developing apps, websites and other stuff. Always up for learning. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>. I'll never say no to a ⚽ match or another plate of momo</h2>
 
 <h1 align="left">Connect with me:</h1>
