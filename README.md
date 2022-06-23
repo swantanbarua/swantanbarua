@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swantan Barua</h1>
-<h2 align="center">I am a Software Development Engineer currently working in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a> as an iOS developer. I have industrial experience in Frontend Web development with React and iOS Mobile development. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>.</h2>
+<h2 align="center">I am a Software Development Engineer currently working in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a> as an iOS developer. I have industrial experience in Frontend Web Development with ReactJS and iOS Mobile Development. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>.</h2>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
