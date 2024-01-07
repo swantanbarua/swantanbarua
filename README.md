@@ -1,6 +1,6 @@
 <h1 align="center">👋 Greetings! I'm Swantan Barua</h1>
 
-🛠️ I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in"Jadavpur University</a>, where I earned my stripes in Information Technology.<br /><br />
+🛠️ I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in">Jadavpur University</a>, where I earned my stripes in Information Technology.<br /><br />
 
 🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at <a href="https://www.medify.net">Medify Nexus</a>. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at <a href="https://louievoice.com">Visioapps Technology Pvt. Ltd</a> as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.<br /><br />
 
