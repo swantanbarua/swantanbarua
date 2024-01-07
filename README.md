@@ -1,5 +1,4 @@
 <h1>👋 Greetings! I'm Swantan Barua</h1>
-<h2>I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at Relentless VC. My journey in the tech realm began at Jadavpur University, where I earned my stripes in Information Technology.
 
 🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at Medify Nexus. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at Visioapps Technology Pvt. Ltd as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.
 
@@ -13,7 +12,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Swantan Barua</h1>
-<h2 align="center">I am a Software Development Engineer currently working as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. Worked previously as an iOS Engineer at <a href="https://www.medify.net/">Medify Nexus</a>, iOS Developer at <a href="https://louievoice.com">Visioapps Technology Pvt. Ltd</a> and as a Software Engineer in <a href="https://www.mantralabsglobal.com/">Mantra Labs</a> where my roles were iOS developer and ReactJS Frontend Developer. I have industrial experience in Frontend Web Development with ReactJS and iOS Mobile Development with Swift, UIKit and SwiftUI. I am an Information Technology Graduate from <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>.</h2>
+<h2 align="center">I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a>, where I earned my stripes in Information Technology.<br /><br />
+  
+🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at <a href="https://www.medify.net/">Medify Nexus</a>. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at <a href="https://louievoice.com">Visioapps Technology Pvt. Ltd</a> as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.<br /><br />
+
+🌐 But that's not the whole story – my skills extend to the realm of Frontend Web Development with ReactJS. During my tenure at <a href="https://www.mantralabsglobal.com/">Mantra Labs</a>, I embraced the dual role of iOS and ReactJS Frontend Developer, showcasing versatility across both mobile and web landscapes.<br /><br />
+  
+💻 Armed with expertise in Swift, UIKit, and SwiftUI, I thrive on the challenge of transforming ideas into robust, sleek, and intuitive interfaces. Whether it's crafting responsive web designs with ReactJS or sculpting seamless mobile experiences, I approach each project with passion and precision.<br /><br />
+
+
+🔍 Always hungry for knowledge and staying ahead of the tech curve, I'm on a perpetual quest for innovative solutions to complex challenges. Let's connect and explore the ever-evolving world of technology together!<br /><br />
+
+📫 Open to collaborations, discussions, and sharing insights. Feel free to reach out – let's create something amazing!</h2>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
