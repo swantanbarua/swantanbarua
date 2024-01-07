@@ -1,16 +1,19 @@
 <h1 align="center">👋 Greetings! I'm Swantan Barua</h1>
 
-🛠️ I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in">Jadavpur University</a>, where I earned my stripes in Information Technology.<br /><br />
+<div>
+    <p>🛠️ I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures" style="color: grey;">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in" style="color: grey;">Jadavpur University</a>, where I earned my stripes in Information Technology.</p>
 
-🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at <a href="https://www.medify.net">Medify Nexus</a>. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at <a href="https://louievoice.com">Visioapps Technology Pvt. Ltd</a> as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.<br /><br />
+    <p>🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at <a href="https://www.medify.net" style="color: grey;">Medify Nexus</a>. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at <a href="https://louievoice.com" style="color: grey;">Visioapps Technology Pvt. Ltd</a> as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.</p>
 
-🌐 But that's not the whole story – my skills extend to the realm of Frontend Web Development with ReactJS. During my tenure at <a href="https://www.mantralabsglobal.com">Mantra Labs</a>, I embraced the dual role of iOS and ReactJS Frontend Developer, showcasing versatility across both mobile and web landscapes.<br /><br />
+    <p>🌐 But that's not the whole story – my skills extend to the realm of Frontend Web Development with ReactJS. During my tenure at <a href="https://www.mantralabsglobal.com" style="color: grey;">Mantra Labs</a>, I embraced the dual role of iOS and ReactJS Frontend Developer, showcasing versatility across both mobile and web landscapes.</p>
 
-💻 Armed with expertise in Swift, UIKit, and SwiftUI, I thrive on the challenge of transforming ideas into robust, sleek, and intuitive interfaces. Whether it's crafting responsive web designs with ReactJS or sculpting seamless mobile experiences, I approach each project with passion and precision.<br /><br />
+    <p>💻 Armed with expertise in Swift, UIKit, and SwiftUI, I thrive on the challenge of transforming ideas into robust, sleek, and intuitive interfaces. Whether it's crafting responsive web designs with ReactJS or sculpting seamless mobile experiences, I approach each project with passion and precision.</p>
 
-🔍 Always hungry for knowledge and staying ahead of the tech curve, I'm on a perpetual quest for innovative solutions to complex challenges. Let's connect and explore the ever-evolving world of technology together!<br /><br />
+    <p>🔍 Always hungry for knowledge and staying ahead of the tech curve, I'm on a perpetual quest for innovative solutions to complex challenges. Let's connect and explore the ever-evolving world of technology together!</p>
 
-📫 Open to collaborations, discussions, and sharing insights. Feel free to reach out – let's create something amazing!<br /><br />
+    <p>📫 Open to collaborations, discussions, and sharing insights. Feel free to reach out – let's create something amazing!</p>
+</div>
+
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
