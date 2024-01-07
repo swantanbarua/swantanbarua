@@ -1,5 +1,4 @@
-<h1 align="center"> ![Wave Hello](https://tenor.com/bcgn4.gif)
-👋 Greetings! I'm Swantan Barua</h1>
+<h1 align="center">👋 Greetings! I'm Swantan Barua</h1>
 
 🛠️ I am a seasoned Software Development Engineer currently sculpting digital experiences as an iOS Developer at <a href="https://relentless.ventures">Relentless VC</a>. My journey in the tech realm began at <a href="http://www.jaduniv.edu.in">Jadavpur University</a>, where I earned my stripes in Information Technology.<br /><br />
 
