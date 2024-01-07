@@ -1,6 +1,6 @@
 <h1 align="center">👋 Greetings! I'm Swantan Barua</h1>
 
-<h2 align="center">🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at Medify Nexus. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at Visioapps Technology Pvt. Ltd as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.
+<h2>🚀 I've had the privilege of contributing to groundbreaking projects, serving as an iOS Engineer at Medify Nexus. There, I pushed the boundaries of mobile innovation, crafting applications that seamlessly fused technology with user needs. My stint at Visioapps Technology Pvt. Ltd as an iOS Developer further deepened my understanding of creating user-centric and elegant mobile solutions.
 
 🌐 But that's not the whole story – my skills extend to the realm of Frontend Web Development with ReactJS. During my tenure at Mantra Labs, I embraced the dual role of iOS and ReactJS Frontend Developer, showcasing versatility across both mobile and web landscapes.
 
